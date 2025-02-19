@@ -1,5 +1,5 @@
 <p align="left">
- <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Hi%2C%20welcome%20to%20my%20github%20profile%20I%20am%20full-stack%20developer;&font=Rancho&center=false&width=404&height=50&color=#B282E9&vCenter=false&size=100"></a>
+ <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Hi%2C%20welcome%20to%20my%20github%20profile%20I%20am%20full- stack%20developer;&font=Rancho&center=false&width=404&height=50&color=#B282E9&vCenter=false&size=100"></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
